@@ -98,6 +98,15 @@ You’ll upload the Python file for this assignment to your GitHub repository.
 
 * Submit the link to your GitHub project to Bootcamp Spot.
 
+# Streamlit Application - Final Product
+
+The streamlit application created can be used to initiate transactions. Each transaction is added to the blockchain, and the transactions can be validated. The images below show three transactions that were completed, added to the bloackchain and validated. 
+
+![screenhot_1](screenshot_1.png)
+
+![screenhot_2](screenshot_2.png)
+
+
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
